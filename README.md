@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Started coding at 12, freelancing by 16, full-time dev at 19  
-- 🧓 Currently 27, with **8+ years** of commercial experience in fullstack development  
+- 🧓 Currently 27, with **7+ years** of commercial experience in fullstack development  
 - 🧰 Strong in **back-end**, **front-end**, and infrastructure maintenance  
 - ⚡ Passionate about clean architecture, automation, and building useful tools  
 - 💼 Currently working full-time as a **Fullstack Software Developer**, and building indie projects on the side
@@ -17,7 +17,7 @@
 ### 🧱 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,symfony,js,vue,nodejs,html,css,sass,bootstrap,py,lua,bash,electron,express,vuetify,mysql,postgres,sqlite,redis,rabbitmq,phpstorm,postman,npm,yarn,docker,nginx,cloudflare,sentry,arduino,raspberrypi,debian,ubuntu,linux" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,js,vue,nodejs,html,css,sass,bootstrap,py,lua,bash,electron,express,vuetify,mysql,postgres,sqlite,redis,rabbitmq,phpstorm,visualstudio,postman,npm,yarn,docker,nginx,cloudflare,sentry,arduino,raspberrypi,debian,ubuntu,linux" />
 </p>
 
 **Languages**  
@@ -33,7 +33,7 @@ HTML, CSS, Sass, Bootstrap
 MySQL, PostgreSQL, SQLite, Redis, RabbitMQ
 
 **Dev Tools**  
-PHPStorm, Postman, Playwright, npm, yarn
+PHPStorm, Visual Studio Code, Postman, Playwright, npm, yarn
 
 **Ops & Platforms**  
 Linux, Docker, Nginx, WebSockets, CI/CD, Cloudflare, Sentry
