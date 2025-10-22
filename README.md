@@ -9,7 +9,7 @@
 - 🧓 Currently 27, with **7+ years** of commercial experience in fullstack development  
 - 🧰 Strong in **back-end**, **front-end**, and infrastructure maintenance  
 - ⚡ Passionate about clean architecture, automation, and building useful tools  
-- 💼 Currently working full-time as a **Fullstack Software Developer**, and building indie projects on the side
+- 💼 Currently working full-time as a **Fullstack Software Developer**, and building indie projects after hours
 - 📜 Certified in **Professional Scrum Master I (PSM I)**
 
 ---
