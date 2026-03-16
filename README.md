@@ -48,11 +48,15 @@ Debian, Ubuntu
 
 ### 🚀 Projects
 
-🔹 [**PteroCA**](https://pteroca.com)  
+🔹 [**PteroCA.com**](https://pteroca.com)  
 🧩 I'm the **founder** and lead developer of this **open-source** client & billing panel for **Pterodactyl** hosting providers.  
 🛠 Built with **Symfony 7** and **PHP 8.2** - focused on clarity, security, and performance.
 
-🔹 [**CV-Online.pl**](https://cv-online.pl)  
+🔹 [**VoicePaste.net**](https://voicepaste.net)  
+🎙️ Open-source **voice-to-text** tool for power users — hold a hotkey, speak, text pastes instantly.  
+⚡ Built with **Groq API** (Whisper Large v3 Turbo) — near-zero latency, MIT licensed, no subscriptions.
+
+🔹 [**CV-Online.pl**](https://cv-online.pl)
 📄 Fast, modern **resume builder** and lightweight job board.  
 ⚙️ Back-end in **CodeIgniter 4**, front-end resume editor in **Vue 3**.
 
