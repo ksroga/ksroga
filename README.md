@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Started coding at 12, freelancing by 16, full-time dev at 19  
-- 🧓 Currently 27, with **7+ years** of commercial experience in fullstack development  
+- 🧓 Currently 28, with **8+ years** of commercial experience in fullstack development  
 - 🧰 Strong in **back-end**, **front-end**, and infrastructure maintenance  
 - ⚡ Passionate about clean architecture, automation, and building useful tools  
 - 💼 Currently working full-time as a **Fullstack Software Developer**, and building indie projects after hours
@@ -52,13 +52,14 @@ Debian, Ubuntu
 🧩 I'm the **founder** and lead developer of this **open-source** client & billing panel for **Pterodactyl** hosting providers.  
 🛠 Built with **Symfony 7** and **PHP 8.2** - focused on clarity, security, and performance.
 
-🔹 [**VoicePaste.net**](https://voicepaste.net)  
-🎙️ Open-source **voice-to-text** tool for power users — hold a hotkey, speak, text pastes instantly.  
-⚡ Built with **Groq API** (Whisper Large v3 Turbo) — near-zero latency, MIT licensed, no subscriptions.
-
 🔹 [**CV-Online.pl**](https://cv-online.pl)
 📄 Fast, modern **resume builder** and lightweight job board.  
 ⚙️ Back-end in **CodeIgniter 4**, front-end resume editor in **Vue 3**.
+
+🔹 [**Egzamin-Prawko.pl**](https://egzamin-prawko.pl) · [**Kierowca-Zawodowy.pl**](https://kierowca-zawodowy.pl)  
+🚗 **Learning platform** for Polish driving licence and professional driver exams (ADR, code 95).  
+🎓 Question bank with explanations, courses and an **AI tutor**.  
+⚙️ Built with **Next.js** - freemium model.
 
 ---
 
